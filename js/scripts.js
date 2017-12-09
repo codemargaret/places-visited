@@ -22,7 +22,7 @@ $(document).ready(function(){
 
     var newPlace = new Place(inputtedPlaceName, inputtedLandmarks, inputtedTimeOfYear, inputtedNotes);
 
-    $('ul#places-visited').append("<li><span class='contact'>" + newPlace.placeInfo + '</span></li>');
+    $('ul#places-visited').append("<li><span class='contact'>" + newPlace.placeInfo() + '</span></li>');
 
     $('input#new-place-name').val('');
     $('input#new-landmarks').val('');
