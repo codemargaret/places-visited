@@ -5,32 +5,28 @@
 #### By _**Margaret Berry**_
 
 ## Description
-
 _This website allows you to store information about places you have visited, including landmarks, the time of year, and notes about your experience._
 
-## Specifications
-
-* _The program_
-* _Input example:_
-* _Output example:_
-
 ## Setup/Installation Requirements
+_Run the following commands in Terminal:_
 
-* _To access the project, complete the following steps:_
-* _Clone the repository._
+1. `$ git clone` [this repository](https://github.com/codemargaret/places-visited.git)
+2. `$ cd places-visited`
+3. `$ open index.html`
+
 * _Open HTML, CSS, Bootstrap, JS, and jQuery files in a text editor such as Atom for a closer look at the code._
-* _Click on the HTML file to open the page locally._
+
+## Project Goals
+_Practice using jQuery and writing prototype functions._
 
 ## Known Bugs
-
 _There are no known bugs at this time._
 
 ## Support and contact details
 
-_If you have questions, comments, or concerns, please contact [Margaret](margaretshelaghmcgovern@gmail.com).  Feel free to make a contribution to the code._
+_If you have questions, comments, or concerns, please contact [Margaret](codeberry1@gmail.com).  Feel free to make a contribution to the code._
 
 ## Technologies Used
-
 * _HTML_
 * _CSS_
 * _Bootstrap_
